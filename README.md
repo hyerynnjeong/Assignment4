@@ -13,3 +13,6 @@ hand tracking.
 - Unity 6000.5.9f1 (Universal Render Pipeline), Android build target
 - Meta XR SDK with OpenXR (Meta XR feature group)
 - Meta Building Blocks: Camera Rig, Passthrough, Grab Interaction
+
+## APK
+The built .apk is attached under this repository's Releases.
